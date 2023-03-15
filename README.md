@@ -1,1 +1,2 @@
-# pomodoro
+# Pomodoro
+Pomodoro clock for studying
